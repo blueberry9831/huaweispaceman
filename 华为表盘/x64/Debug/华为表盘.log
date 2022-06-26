@@ -1,0 +1,6 @@
+﻿  huawei.cpp
+D:\编译器\IDE\VC\Auxiliary\VS\include\graphics.h(1,1): warning C4828: 文件包含在偏移 0x19d3 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+D:\编译器\code\华为表盘\huawei.cpp(37,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\编译器\code\华为表盘\huawei.cpp(82,25): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\编译器\code\华为表盘\huawei.cpp(93,25): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  华为表盘.vcxproj -> D:\编译器\code\华为表盘\x64\Debug\华为表盘.exe
